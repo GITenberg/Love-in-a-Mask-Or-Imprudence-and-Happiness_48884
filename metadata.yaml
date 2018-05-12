@@ -1,9 +1,13 @@
 _repo: Love-in-a-Mask-Or-Imprudence-and-Happiness_48884
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Ivimy, Alice M.
     gutenberg_agent_id: '45034'
     url: http://www.gutenberg.org/2009/agents/45034
+covers:
+- cover_type: archival
+  image_path: 48884-h/images/cover_balzac.jpg
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -20,6 +24,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48884#Love-in-a-Mask-Or-Imprudence-and-Happiness
 gutenberg_issued: '2015-05-09'
 gutenberg_type: Text
 identifiers:
